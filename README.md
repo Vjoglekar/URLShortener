@@ -35,6 +35,6 @@ Step 3: Hurray!!..Now you can see a shortend URL below Submit button.
         You can copy it and paste it in your browser 
         Or
         You can click the URL on the same page to go to the original webpage.
-        
-#Thank You
 
+
+# Thank You
