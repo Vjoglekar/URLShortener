@@ -18,3 +18,15 @@ pip install -r requirements.txt
 ```
 
 ### Navigate to the Directory
+Navigate to the URLShortener>urlshortener Directory by following this command
+```
+cd URLShortener
+cd urlshortener
+```
+
+### Run the Applicaiton
+```
+python manage.py runserver 8000
+```
+### Open the WebApp in Browser
+Open [http://localhost:8000/home](http://localhost:8000/home)
