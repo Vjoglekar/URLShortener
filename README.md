@@ -20,8 +20,8 @@ pip install -r requirements.txt
 ### Navigate to the Directory
 Navigate to the URLShortener>urlshortener Directory by following this command
 ```
-cd URLShortener
-cd urlshortener
+>cd URLShortener
+>cd urlshortener
 ```
 
 ### Run the Applicaiton
